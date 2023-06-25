@@ -11,3 +11,5 @@
 - CSS
 
 ## 👩‍💻 Experiência:
+Ao recriar a aplicação, a partir do layout, foi possível fortalecer os conceitos aprendidos, como estruturação de projeto em HTML, tags semânticas, propriedades fundamentais em CSS. Além de praticar sobre  espaçamentos, posicionamento e alinhamento de elementos na tela;
+E como desafio extra aplicando a Favicon(favorite + icon) ao projeto, manipulando imagem svg para ficar ao lado do título da aplicação no navegador.
